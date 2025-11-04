@@ -402,9 +402,7 @@ def main():
     try:
         # Категорії для парсингу
         categories = {
-            'Кварцовий камінь': 'https://topovi.com.ua/stones/types=kvarcevyy-kamen',
-            'Натуральний камінь': 'https://topovi.com.ua/stones/types=naturalniy-kamin',
-            'Акриловий камінь': 'https://topovi.com.ua/stones/types=akrilovyy-kamen'
+            'Керамограніт': 'https://topovi.com.ua/stones/brands=keralini',
         }
         
         # Запускаємо парсинг
